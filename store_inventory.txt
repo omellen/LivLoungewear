@@ -1,0 +1,12 @@
+Top Long-Sleeve 35
+Top Short-Sleeve 30
+Top Crop-Top 28
+Top Tank-Top 23
+Bottom Black-Jeans 40 Full
+Bottom Blue-Jeans 40 Full
+Bottom Black-Jean-Shorts 37 Short
+Bottom Blue-Jean-Shorts 37 Short
+Bottom Leggings 42 no-cuff
+Accessory Ring 15
+Accessory Necklace 22
+Accessory Bracelet 19
